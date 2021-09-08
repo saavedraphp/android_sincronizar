@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BaseDatos</string>
+
+    <string name="lb_codigo">Codigo del producto</string>
+    <string name="lb_descripcion">Descripcion del producto</string>
+    <string name="lb_precio">Precio del producto</string>
+
+    <string name="cmd_registrar">REGISTRAR PRODUCTO</string>
+    <string name="cmd_buscar">BUSCAR PRODUCTO</string>
+    <string name="cmd_modificar">MODIFICAR PRODUCTO</string>
+    <string name="cmd_eliminar">ELIMINAR PRODUCTO</string>
+
+
+    <string name="txt_correo">Correo Electronico</string>
+    <string name="txt_password">Contraseña</string>
+
+    <string name="cmd_login">INGRESAR</string>
+
+    <string name="URL_OBTENER_VENTAS">http://192.168.1.171/sincronizar/ObtenerVentas.php</string>
+    <string name="URL_REGISTRAR_SERVIDOR">http://192.168.1.171/sincronizar/RegistrarVentas.php</string>
+
+</resources>
